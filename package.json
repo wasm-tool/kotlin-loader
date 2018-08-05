@@ -1,0 +1,26 @@
+{
+  "name": "@wasm-tool/kotlin-loader",
+  "version": "0.0.0",
+  "description": "Kotlin loader for webpack",
+  "main": "loader.js",
+  "directories": {
+    "sample": "sample"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wasm-tool/kotlin-loader.git"
+  },
+  "keywords": [
+    "kotlin",
+    "kotlin-native",
+    "webpack",
+    "webassembly",
+    "loader"
+  ],
+  "author": "Sendil Kumar N<sendilkumarn@live.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wasm-tool/kotlin-loader/issues"
+  },
+  "homepage": "https://github.com/wasm-tool/kotlin-loader#readme"
+}

@@ -1,0 +1,9 @@
+{
+    "devDependencies": {
+        "@wasm-tool/kotlin-loader": "0.0.1",
+        "html-webpack-plugin": "^3.2.0",
+        "http-server": "^0.1.2",
+        "webpack": "^4.16.3",
+        "webpack-cli": "^3.1.0"
+    }
+  }
