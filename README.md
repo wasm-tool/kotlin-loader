@@ -5,7 +5,7 @@
 ## Installation
 `yarn add --dev @wasm-tool/kotlin-loader`
 
-###`Kotlin-native`
+### `Kotlin-native`
 
 We expect `kotlin-native` to be in your `$PATH`. To install check [here](https://github.com/JetBrains/kotlin-native#kotlinnative)
 
